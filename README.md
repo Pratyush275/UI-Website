@@ -41,7 +41,7 @@
                     <h3>Hi I'm</h3>
                     <h1>
                         <span style="color:#52489C;">pratyush</span>
-                        "kumar sahoo"
+                        kumar sahoo
                     </h1>
                     <p>
                         "I'm a professional Web Developer. Our Main Goal to help & Satisficed the Local & Global Clients by Web development solutions "
